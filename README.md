@@ -65,16 +65,15 @@ usuários a cada caracter colocado ou apagado.</p>
 
 <h2>Ferramentas utilizadas</h2>
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Inicializei o projeto com Vue-cli webpack simple.</li>
+  <li>Bootstrap e Vue-Bootstrap para melhoria visual do site.</li>
+  <li>Vue-router para criar rotas no site, assim sendo realmente uma Single Page Aplication.</li>
+  <li>Babel para conseguir usar os novos padrões do JS.</li>
+  <li>cross-env para ter um único comando sem se preocupar em definir ou usar a variável de ambiente.</li>
+  <li>WebPack para empacotar códigos.</li>
 </ul> 
-<p>Inicializei o projeto com Vue-cli webpack simple.</p>
-<p>Utiliza Bootstrap e Vue-Bootstrap para melhoria visual do site.</p>
-<p>Utiliza Vue-router para criar rotas no site, assim sendo realmente uma Single Page Aplication.</p>
-<p>Utiliza Babel para conseguir usar os novos padrões do JS.</p>
-<p>Utiliza cross-env para ter um único comando sem se preocupar em definir ou usar a variável de ambiente.</p>
-<p>Utiliza WebPack para empacotar códigos.</p>
+
+<br>
 
 ## Build Setup
 

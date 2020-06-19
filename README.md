@@ -1,4 +1,8 @@
-# Aplicação CRUD de usuários
+# Aplicação - CRUD de usuários
+
+<div align="center" style="margin-top: 15px;">
+  <img alt="home" title="Home" src=".github/home.png"/>
+</div>
 
 
 ## Build Setup

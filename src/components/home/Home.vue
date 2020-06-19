@@ -3,7 +3,7 @@
 
     <h1 class="titulo">{{ titulo }}</h1>
     <br>
-    <div class="botoes"> <router-link :to="{ name: 'cadastro' }"> <b-button class="botoes" variant="outline-primary">Adicionar Usuario <i class="fa fa-user-plus"></i></b-button> </router-link> </div>
+    <div class="botoes"> <router-link :to="{ name: 'cadastro' }"> <b-button class="botoes" variant="primary">Adicionar Usuario <i class="fa fa-user-plus"></i></b-button> </router-link> </div>
     
     <input type="search" class="filtro" @input="filtro = $event.target.value" placeholder="Perquisar por nome">
     <p v-if="mostraMensagem">{{ mensagem }}</p>
@@ -16,9 +16,9 @@
       <li v-for="(usuario, i) of usuariosFiltro().slice().reverse()" :key='i'>
         <meu-painel :name="usuario.name" :username="usuario.username" :email="usuario.email">
         <div class="botoes">
-          <router-link :to="{ name: 'altera', params: {id: usuario._id} }"> <b-button variant="outline-primary">Editar <i class="fa fa-user-edit"></i></b-button> </router-link>
-          <router-link :to="{ name: 'mostra', params: {id: usuario._id} }"> <b-button variant="outline-primary">Ver detalhes <i class="fas fa-eye"></i></b-button> </router-link>
-          <b-button variant="outline-danger" @click="remove(usuario)">Remover <i class="fa fa-trash"></i> </b-button>
+          <router-link :to="{ name: 'altera', params: {id: usuario._id} }"> <b-button variant="primary">Editar <i class="fa fa-user-edit"></i></b-button> </router-link>
+          <router-link :to="{ name: 'mostra', params: {id: usuario._id} }"> <b-button variant="primary">Ver detalhes <i class="fas fa-eye"></i></b-button> </router-link>
+          <b-button variant="danger" @click="remove(usuario)">Remover <i class="fa fa-trash"></i> </b-button>
         </div>
         <br>
         <br>
@@ -43,7 +43,7 @@ export default {
   data() {
 
     return{
-      titulo: 'Usuarios Nagro',
+      titulo: 'Usuarios',
       usuarios: [],
       filtro: '',
       mensagem: '',
@@ -116,6 +116,7 @@ export default {
 
   .botoes{
     text-align: right;
+    outline: 0;
   }
 
   .titulo{
@@ -129,6 +130,7 @@ export default {
     padding: 10px;
     width: 100%;
     border-radius: 20px;
+    outline: 0;
   }
 
   .home{

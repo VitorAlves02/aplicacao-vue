@@ -1,6 +1,5 @@
-# teste_nagro
+# Aplicação CRUD de usuários
 
-> A Vue.js project
 
 ## Build Setup
 

@@ -1,6 +1,6 @@
 # Aplicação - CRUD de usuários
 
-<h2>Repositório que consiste em um site de usuários implementado em Vue, consumindo uma api em Node(também feita por mim).</h2> 
+<h2>Repositório que consiste em um site de usuários implementado em Vue, consumindo <a href="https://github.com/VitorAlves02/api-node">uma api em Node</a>(também feita por mim).</h2> 
 <br>
 
 # .Home
@@ -15,8 +15,6 @@ informações, podendo alterar informações de tal usuário.</p>
 do banco de dados e da Home.</p>
 <p><b>Ver detalhes:</b> Irá para uma página separada com todos os dados do usuário
 cadastrado.</p>
-
-<a href="https://github.com/VitorAlves02/api-node">teste</a>
 
 <div align="center" style="margin-top: 15px;">
   <img alt="home" title="Home" src=".github/home.png"/>

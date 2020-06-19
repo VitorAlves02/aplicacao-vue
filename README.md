@@ -5,7 +5,7 @@
 
 # .Home
 
-<p>- Tela de listagem dos Usuários cadastrados, mostrando em ordem do mais recente primeiro</p>
+<p>- Tela de listagem dos Usuários cadastrados, mostrando informações resumidas em ordem do mais recente primeiro</p>
 <h3>Ações - Home</h3>
 <p><b>Filtro:</b> Input para filtragem dos usuários</p>
 <p><b>Adicionar Usuario:</b> Quando clicado, será direcionado pra tela de cadastro</p>
@@ -24,6 +24,18 @@ cadastrado.</p>
 <br>
 <br>
 
+# .Filtro
+<p>- Na página Home existe um input para Filtragem dos usuários, que atualiza os
+usuários a cada caracter colocado ou apagado..</p>
+
+<div align="center" style="margin-top: 15px;">
+  <img alt="home" title="Home" src=".github/home-filtro.png"/>
+</div>
+
+<br>
+<br>
+<br>
+
 # .Cadastro
 <p>- Tela com formulário para cadastramento de usuários, você deve preencher os campos do seu usuário(Há validação para que não deixe salvar em branco os 5 primeiros campos), depois de escrever você pode salvar(Listará e voltará para a página Home) ou voltar(Irá para a página Home sem salvar).</p>
 
@@ -33,6 +45,17 @@ cadastrado.</p>
 <br>
 <div align="center" style="margin-top: 15px;">
   <img alt="home" title="Home" src=".github/cadastro2.png"/>
+</div>
+
+<br>
+<br>
+<br>
+
+# .Informações detalhadas
+<p>- Tela que mostra todas as informações de determinado usuário cadastrado.</p>
+
+<div align="center" style="margin-top: 15px;">
+  <img alt="home" title="Home" src=".github/informacoes.png"/>
 </div>
 
 ## Build Setup

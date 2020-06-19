@@ -63,7 +63,12 @@ usuários a cada caracter colocado ou apagado.</p>
 <br>
 <br>
 
-<h3>Ferramentas utilizadas</h3>
+<h2>Ferramentas utilizadas</h2>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
 <p>Inicializei o projeto com Vue-cli webpack simple.</p>
 <p>Utiliza Bootstrap e Vue-Bootstrap para melhoria visual do site.</p>
 <p>Utiliza Vue-router para criar rotas no site, assim sendo realmente uma Single Page Aplication.</p>

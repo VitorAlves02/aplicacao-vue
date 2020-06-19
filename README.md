@@ -1,10 +1,9 @@
 # Aplicação - CRUD de usuários
 
-<h1>Repositório que consiste em um site de usuários implementado em Vue, consumindo uma api em Node(também feita por mim).</h1> 
+<h2>Repositório que consiste em um site de usuários implementado em Vue, consumindo uma api em Node(também feita por mim).</h2> 
 
 <br>
-<br>
-<h2>Home</h2>
+<h3>Home</h3>
 <p>- Tela de listagem dos Usuários cadastrados, mostrando em ordem do mais recente primeiro</p>
 <h3>Ações - Home</h3>
 <p><b>Filtro:</b> Input para filtragem dos usuários</p>
@@ -20,7 +19,7 @@ cadastrado.</p>
   <img alt="home" title="Home" src=".github/home.png"/>
 </div>
 
-#
+<br>
 #
 
 <h2>Cadastro</h2>
@@ -29,7 +28,7 @@ cadastrado.</p>
 <div align="center" style="margin-top: 15px;">
   <img alt="home" title="Home" src=".github/cadastro1.png"/>
 </div>
-
+<br>
 <div align="center" style="margin-top: 15px;">
   <img alt="home" title="Home" src=".github/cadastro2.png"/>
 </div>

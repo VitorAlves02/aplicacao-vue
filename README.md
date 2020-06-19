@@ -21,7 +21,8 @@ cadastrado.</p>
 </div>
 
 <br>
-#
+
+####
 
 # .Cadastro
 <p>- Tela com formulário para cadastramento de usuários, você deve preencher os campos do seu usuário(Há validação para que não deixe salvar em branco os 5 primeiros campos), depois de escrever você pode salvar(Listará e voltará para a página Home) ou voltar(Irá para a página Home sem salvar).</p>

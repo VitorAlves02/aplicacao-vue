@@ -1,9 +1,10 @@
 # Aplicação - CRUD de usuários
 
 <h2>Repositório que consiste em um site de usuários implementado em Vue, consumindo uma api em Node(também feita por mim).</h2> 
-
 <br>
+
 <h3>Home</h3>
+#
 <p>- Tela de listagem dos Usuários cadastrados, mostrando em ordem do mais recente primeiro</p>
 <h3>Ações - Home</h3>
 <p><b>Filtro:</b> Input para filtragem dos usuários</p>

@@ -5,7 +5,7 @@
 
 # .Home
 
-<p>- Tela de listagem dos Usuários cadastrados, mostrando informações resumidas em ordem do mais recente primeiro</p>
+<p>- Tela de listagem dos Usuários cadastrados, mostrando informações resumidas em ordem do mais recente primeiro.</p>
 <h3>Ações - Home</h3>
 <p><b>Filtro:</b> Input para filtragem dos usuários</p>
 <p><b>Adicionar Usuario:</b> Quando clicado, será direcionado pra tela de cadastro</p>
@@ -26,7 +26,7 @@ cadastrado.</p>
 
 # .Filtro
 <p>- Na página Home existe um input para Filtragem dos usuários, que atualiza os
-usuários a cada caracter colocado ou apagado..</p>
+usuários a cada caracter colocado ou apagado.</p>
 
 <div align="center" style="margin-top: 15px;">
   <img alt="home" title="Home" src=".github/home-filtro.png"/>
@@ -57,6 +57,19 @@ usuários a cada caracter colocado ou apagado..</p>
 <div align="center" style="margin-top: 15px;">
   <img alt="home" title="Home" src=".github/informacoes.png"/>
 </div>
+
+<br>
+<br>
+<br>
+<br>
+
+<h3>Ferramentas utilizadas</h3>
+<p>Inicializei o projeto com Vue-cli webpack simple.</p>
+<p>Utiliza Bootstrap e Vue-Bootstrap para melhoria visual do site.</p>
+<p>Utiliza Vue-router para criar rotas no site, assim sendo realmente uma Single Page Aplication.</p>
+<p>Utiliza Babel para conseguir usar os novos padrões do JS.</p>
+<p>Utiliza cross-env para ter um único comando sem se preocupar em definir ou usar a variável de ambiente.</p>
+<p>Utiliza WebPack para empacotar códigos.</p>
 
 ## Build Setup
 

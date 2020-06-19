@@ -2,8 +2,6 @@
 
 <h1>Repositório que consiste em um site de usuários implementado em Vue, consumindo uma api em Node(tabém feita por mim).</h1> 
 
-#
-
 <h2>Home</h2>
 <p>- Tela de listagem dos Usuários cadastrados, mostrando em ordem do mais recente primeiro</p>
 <h3>Ações - Home</h3>

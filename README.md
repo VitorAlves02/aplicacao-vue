@@ -3,7 +3,7 @@
 <h2>Repositório que consiste em um site de usuários implementado em Vue, consumindo uma api em Node(também feita por mim).</h2> 
 <br>
 
-<p style="color:blue>.Home</p>
+# .Home
 
 <p>- Tela de listagem dos Usuários cadastrados, mostrando em ordem do mais recente primeiro</p>
 <h3>Ações - Home</h3>
@@ -20,11 +20,10 @@ cadastrado.</p>
   <img alt="home" title="Home" src=".github/home.png"/>
 </div>
 
-#
-
+<br>
 <br>
 
-.Cadastro
+# .Cadastro
 <p>- Tela com formulário para cadastramento de usuários, você deve preencher os campos do seu usuário(Há validação para que não deixe salvar em branco os 5 primeiros campos), depois de escrever você pode salvar(Listará e voltará para a página Home) ou voltar(Irá para a página Home sem salvar).</p>
 
 <div align="center" style="margin-top: 15px;">

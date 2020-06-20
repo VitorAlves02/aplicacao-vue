@@ -29,7 +29,7 @@ cadastrado.</p>
 usuários a cada caracter colocado ou apagado.</p>
 
 <div align="center" style="margin-top: 15px;">
-  <img alt="home" title="Home" src=".github/home-filtro.png"/>
+  <img alt="filtro" title="Filtro" src=".github/home-filtro.png"/>
 </div>
 
 <br>
@@ -40,11 +40,11 @@ usuários a cada caracter colocado ou apagado.</p>
 <p>- Tela com formulário para cadastramento de usuários, você deve preencher os campos do seu usuário(Há validação para que não deixe salvar em branco os 5 primeiros campos), depois de escrever você pode salvar(Listará e voltará para a página Home) ou voltar(Irá para a página Home sem salvar).</p>
 
 <div align="center" style="margin-top: 15px;">
-  <img alt="home" title="Home" src=".github/cadastro1.png"/>
+  <img alt="cadastro1" title="Cadastro1" src=".github/cadastro1.png"/>
 </div>
 <br>
 <div align="center" style="margin-top: 15px;">
-  <img alt="home" title="Home" src=".github/cadastro2.png"/>
+  <img alt="cadastro2" title="Cadastro2" src=".github/cadastro2.png"/>
 </div>
 
 <br>
@@ -55,7 +55,7 @@ usuários a cada caracter colocado ou apagado.</p>
 <p>- Tela que mostra todas as informações de determinado usuário cadastrado.</p>
 
 <div align="center" style="margin-top: 15px;">
-  <img alt="home" title="Home" src=".github/informacoes.png"/>
+  <img alt="informacoes" title="Informacoes" src=".github/informacoes.png"/>
 </div>
 
 <br>
